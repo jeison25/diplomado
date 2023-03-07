@@ -17,6 +17,9 @@
 - Se evidencia el repositorio clonado: 
 
 
+Desde GitHub Desktop se puede establecer conexión con terminales de texto y terminales como cmd para realizar cambios. Desde la aplicación se tiene un ambiente más amigable.
+
+Prueba SandraCZ
 
 
   
