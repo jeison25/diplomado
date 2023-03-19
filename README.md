@@ -52,14 +52,14 @@ Felicidades. Ha creado correctamente su primer repositorio y lo has inicializado
 
 Este artículo proporciona una lista de los comandos GIT más usados, una breve descripción de ellos y ejemplos de su uso. Para una descripción detallada de todos los comandos GIT, comprueba esta
 
-##git config
+# git config #
 
 Establece valores de configuración para tu usuario, email, gpg key, algoritmo diff preferido, formatos de archivo y más. Ejemplos:
 
 - git config --global user.name "Mi nombre"
 - git config --global user.email "usuario@dominio.com"
 
-##1git init
+# 1git init #
 
 Inicializa un repositorio git – crea el directorio .git inicial en un proyecto nuevo o existente. Ejemplo:
 
@@ -67,41 +67,41 @@ Inicializa un repositorio git – crea el directorio .git inicial en un proyecto
  
 - Initialized empty Git repository in /home/username/GIT/.git/
   
-##git clone
+# git clone #
 
 Crea una copia de repositorio GIT de una fuente externa. También añade la ubicación original como remota de modo que puedas traerlo de nuevo y lanzarlo si tienes permisos. Ejemplo:
 
 - git clone git@github.com:user/test.git
 
-##git add
+# git add #
 
 Añade cambios de archivos en tu directorio de ensayo a tu index. Ejemplo:
 
 - git add .
 
-##git rm
+# git rm #
 
 Elimina archivos de tu index y de tu directorio de ensayo para que no se rastreen. Ejemplo:
 
 - git rm filename
 
-##git commit
+# git commit #
 
 Toma todos los cambios escritos en el index, crea un nuevo objeto de confirmación que apunta a él y establece la rama para que apunte a esa nueva confirmación. Ejemplos:
 
 - git commit -m ‘committing added changes’
 - git commit -a -m ‘committing all changes, equals to git add and git commit’
 
-##git status
+# git status #
 
 Te muestra el estado de los archivos en el index en comparación con los del directorio de trabajo. Enumerará los archivos que no están rastreados (solo en su directorio de trabajo), modificados (rastreados pero aún no actualizados en tu index), y almacenados (añadidos a tu index y listos para comprometerse). Ejemplo:
 
 - git status
  
-- # On branch master #
-- # Initial commit #
-- # Untracked files: #
-- # (use "git add <file>..." to include in what will be committed) #
+- On branch master 
+- Initial commit 
+- Untracked files: 
+- (use "git add <file>..." to include in what will be committed) 
  
 - README
 
