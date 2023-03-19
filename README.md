@@ -42,6 +42,7 @@ Inicializar este repositorio con una casilla archivo Léame
 Botón para crear un repositorio
 Felicidades. Ha creado correctamente su primer repositorio y lo has inicializado con un archivo Léame.
 
+[![thumb2-github-blue-logo-4k.jpg](https://i.postimg.cc/BvLTG4Dt/thumb2-github-blue-logo-4k.jpg)](https://postimg.cc/DWhJrVxK)
 
   
 
