@@ -105,5 +105,23 @@ Te muestra el estado de los archivos en el index en comparación con los del dir
  
 - README
 
+# git branch #
+
+Para listar las ramas existentes, incluyendo las ramas remotas, si se proporciona ‘-a’. Crea una nueva rama si se proporciona un nombre. Ejemplo:
+
+- git branch -a * master remotes/origin/master
+
+# git merge #
+
+Fusiona una o más ramas con otra rama activa y crea automáticamente un nuevo commit si no hay conflictos. Ejemplo:
+
+- git merge newbranchversion
+
+# git reset #
+
+Resetea tu index y directorio de trabajo al último estado comprometido. Ejemplo:
+
+- git reset --hard HEAD
+
 
 
