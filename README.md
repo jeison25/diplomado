@@ -1,6 +1,8 @@
 ﻿# diplomado
 
-1. ¿Como clonar un repositorio?
+<p><span style="font-size: large;"><b>&nbsp;1. ¿Como clonar un repositorio?</b></span></p>
+<br/>
+<br/>
 - Primero se debe crear el repositorio en github desde la siguiente opción:  
 
 <br/>
