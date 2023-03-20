@@ -39,6 +39,15 @@ Inicializar este repositorio con una casilla archivo Léame
 Botón para crear un repositorio
 Felicidades. Ha creado correctamente su primer repositorio y lo has inicializado con un archivo Léame.
 
+4 consejos para crear un buen repositorio de conocimiento
+1. Defina su audiencia y den le la bienvenida a los nuevos miembros: los algoritmos de aprendizaje automático
+El alcance ya no es un factor limitante, pero la atención prestada a cada publicación ha disminuido porque el volumen total de artículos de investigación ha crecido. 
+2. Conecte su repositorio a sus redes sociales y elija la licencia adecuada
+Compartir materiales en las redes sociales alimenta y modifica los algoritmos de recomendación de muchas aplicaciones de internet y por lo tanto puede ayudar a mejorar la visibilidad de las publicaciones.
+3. Defina su modelo operativo
+Los modelos basados en suscripciones han hecho posible el crecimiento consistente de muchas revistas, y ha sido esencial para la preservación del registro académico. Los repositorios abiertos, como SciELO y Arxiv y los repositorios institucionales tienen hoy en día un enorme reto de sostenibilidad y, en general no son capaces de llevar el mismo nivel de recursos que soportan a una empresa comercial.
+4. Use métricas para entender su impacto
+Gracias a los datos abiertos almacenados en la web, cada vez más aplicaciones permiten entender el impacto de su investigación y analizar.
 
   
 
