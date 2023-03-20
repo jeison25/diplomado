@@ -16,13 +16,14 @@
 - Una vez creado se generará una url, esa es la que se debe colocar desde consola usando git bash here, se debe tener en cuenta que la carpeta local donde se clonará el repositorio debe existir en el computador. 
 
 
-
 - Para clonar un repositorio se debe usar el siguiente comando: 
   git clone urlRepositorio 
 
-
+<a href="https://blogger.googleusercontent.com/img/a/AVvXsEia1e_NEEl2qG0LswKwmHYq770gvT-RUKm93DFOdKZ_tfuwMvmj-UVroNgXpt7TcscWUk_KC3QNCiTto-m6R9aXztz8896xlbxm_Ob-kesJEEd7cTJauxPefT7unZ8x_zBlFCmXjw-2Eo1IiAmooC1HnyJhgPNq4-b7WaIhKG7TI4KTiVCtSEK5STwz8A" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="385" data-original-width="585" height="310" src="https://blogger.googleusercontent.com/img/a/AVvXsEia1e_NEEl2qG0LswKwmHYq770gvT-RUKm93DFOdKZ_tfuwMvmj-UVroNgXpt7TcscWUk_KC3QNCiTto-m6R9aXztz8896xlbxm_Ob-kesJEEd7cTJauxPefT7unZ8x_zBlFCmXjw-2Eo1IiAmooC1HnyJhgPNq4-b7WaIhKG7TI4KTiVCtSEK5STwz8A=w470-h310" width="470" /></a>
 
 - Se evidencia el repositorio clonado: 
+
+<a href="https://blogger.googleusercontent.com/img/a/AVvXsEgLpCFQraAft_9c8RAbnNnJiC-kk1kRLQrHCpycvUBKMxSdAA8EarzBgATMNMnR58Bl0jcG1LhWyOv9RTXZpKXvRn9HIMW43uFP6C42O6jWgDXdpHoO0pD7JmerZhSuWKnO68Ows_Vtkujhmjj83AMLPx5wOgLsOy_U-f2fvPbn2Xn91vGgbhuMfKKRIw" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="617" data-original-width="1060" height="296" src="https://blogger.googleusercontent.com/img/a/AVvXsEgLpCFQraAft_9c8RAbnNnJiC-kk1kRLQrHCpycvUBKMxSdAA8EarzBgATMNMnR58Bl0jcG1LhWyOv9RTXZpKXvRn9HIMW43uFP6C42O6jWgDXdpHoO0pD7JmerZhSuWKnO68Ows_Vtkujhmjj83AMLPx5wOgLsOy_U-f2fvPbn2Xn91vGgbhuMfKKRIw=w509-h296" width="509" /></a>
 
 
 Desde GitHub Desktop se puede establecer conexión con terminales de texto y terminales como cmd para realizar cambios. Desde la aplicación se tiene un ambiente más amigable.
