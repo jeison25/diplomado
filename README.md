@@ -3,7 +3,14 @@
 1. ¿Como clonar un repositorio?
 - Primero se debe crear el repositorio en github desde la siguiente opción:  
 
+<br/>
+<br/>
+<br/>
 
+<a href="https://blogger.googleusercontent.com/img/a/AVvXsEhqwaT5dZpmJhQaO2dB_xvw8JI7OKHjbICPDPBkgrLZPSln56jeHoSokBR2F1wSyPBHnSD_NAejrjTi5xJBuQvq_sSu7LnHyRQ-0l2WzhULmbTLq1y9pjF1tPi-uO2BLZWOYwbVVPyzj4uC2JwaaQbDz7-rsFfo3s8TU_Oealh_fLij7_NTNEXhL4FH4w" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="931" data-original-width="1913" height="156" src="https://blogger.googleusercontent.com/img/a/AVvXsEhqwaT5dZpmJhQaO2dB_xvw8JI7OKHjbICPDPBkgrLZPSln56jeHoSokBR2F1wSyPBHnSD_NAejrjTi5xJBuQvq_sSu7LnHyRQ-0l2WzhULmbTLq1y9pjF1tPi-uO2BLZWOYwbVVPyzj4uC2JwaaQbDz7-rsFfo3s8TU_Oealh_fLij7_NTNEXhL4FH4w" width="320" /></a>
+
+<br/>
+<br/><br/><br/><br/>
 
 - Una vez creado se generará una url, esa es la que se debe colocar desde consola usando git bash here, se debe tener en cuenta que la carpeta local donde se clonará el repositorio debe existir en el computador. 
 
