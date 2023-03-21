@@ -134,5 +134,6 @@ Resetea tu index y directorio de trabajo al último estado comprometido. Ejemplo
 
 - git reset --hard HEAD
 
+[![Comando-basico-de-GIT-1.jpg](https://i.postimg.cc/0QbVzZVL/Comando-basico-de-GIT-1.jpg)](https://postimg.cc/r021bGXJ)
 
 
